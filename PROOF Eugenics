@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am eugenics1 on github.
+  * I am eugenics (https://keybase.io/eugenics) on keybase.
+  * I have a public key ASB1yaFup3p3_m5XVx1OR3SPGyE_EbQli5zT_qS8ErFXYgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208dbee09182138a0ab2231e298d8237b6b141874c7198aa3b67464c10440874700a",
+      "host": "keybase.io",
+      "kid": "012075c9a16ea77a77fe6e57571d4e47748f1b213f11b4258b9cd3fea4bc12b157620a",
+      "uid": "532a5c2b2663b1cb4ecfa1a3fb603f19",
+      "username": "eugenics"
+    },
+    "merkle_root": {
+      "ctime": 1568401482,
+      "hash": "4d538367d15089f872a0c3566e2c34107599942d02928023e25184e8939f5df92e367ad9c83b530182ba5b28fd360b11ef809cb4709e5418d64e1db73ced8243",
+      "hash_meta": "74fdfa1ddd1ccb6839cf5a3efb41a4fab7c75d341e1fca5621db12f71cd03d19",
+      "seqno": 7199595
+    },
+    "service": {
+      "entropy": "lPAnhjHJjUjU1beL6IvzV+h2",
+      "name": "github",
+      "username": "eugenics1"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568401479,
+  "expire_in": 504576000,
+  "prev": "59d59cf1633c5ca1af886e3bd14d7782a10a9b2f6f5f1b24fb62b2ee6a6eb177",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASB1yaFup3p3_m5XVx1OR3SPGyE_EbQli5zT_qS8ErFXYgo](https://keybase.io/eugenics), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdcmhbqd6d/5uV1cdTkd0jxshPxG0JYuc0/6kvBKxV2IKp3BheWxvYWTESpcCDsQgWdWc8WM8XKGviG470U13gqEKmy9vXxsk+2Ky7mpusXfEIH36cqjrhBBt2mQqEFlPPZDSlTALapG6Pfed14LEcleaAgHCo3NpZ8RAHDy9yC15dBhsZ6G9xPv0PTwN2CnUqIqJTJethTFDcqtzN8SlGJpISXPr1v7beyz9raeQWhFyQjVC3SZCU7GtAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII1709OpJe6T9Ari687unZx74GnpUg+hNOftl/6Tta5fo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/eugenics
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id eugenics
+```
